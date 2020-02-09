@@ -1,0 +1,9 @@
+server:
+  port: 9080
+spboot:
+  kafka:
+    bootstrapAddress: localhost:9092
+    topic: sql-insert
+spring:
+  jmx:
+    enabled: false
