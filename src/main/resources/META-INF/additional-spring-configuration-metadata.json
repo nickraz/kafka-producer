@@ -1,0 +1,14 @@
+{
+  "properties": [
+    {
+      "name": "spboot.kafka.bootstrapAddress",
+      "type": "java.lang.String",
+      "description": "bootstrapAddress Kafka."
+    },
+    {
+      "name": "spboot.kafka.topic",
+      "type": "java.lang.String",
+      "description": "Имя топика, в которое мы отправляем уведомления."
+    }
+  ]
+}
